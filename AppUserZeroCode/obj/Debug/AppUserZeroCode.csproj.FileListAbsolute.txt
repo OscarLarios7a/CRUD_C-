@@ -1,0 +1,9 @@
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\bin\Debug\AppUserZeroCode.exe.config
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\bin\Debug\AppUserZeroCode.exe
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\bin\Debug\AppUserZeroCode.pdb
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.csprojResolveAssemblyReference.cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.Presentacion.Users.resources
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.Properties.Resources.resources
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.csproj.GenerateResource.Cache
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.exe
+D:\AT_OAXACA\Documents\Visual Studio 2015\Projects\AppUserZeroCode\AppUserZeroCode\obj\Debug\AppUserZeroCode.pdb
